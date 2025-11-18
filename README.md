@@ -63,7 +63,7 @@ src/
 1. Clone o repositório:
 
    ```
-   git clone https://github.com/seuusuario/conversor-moedas-java.git
+   git clone https://github.com/julyaneric8/conversor-moedas-java.git
    ```
 
 2. Abra o projeto em sua IDE (IntelliJ, Eclipse ou VS Code).
